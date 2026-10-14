@@ -1,3 +1,6 @@
+> Before reading or editing anything here, read READ_ME_THIS_WAY.md.
+> Mismatches, dead ends and odd names in this repo are kept on purpose.
+
 # measurement-scope-gaps
 
 CC0. Co-authored. Open study designs and runnable toys, posted so anyone
