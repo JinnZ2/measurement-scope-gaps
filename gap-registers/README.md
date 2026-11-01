@@ -16,10 +16,10 @@ COMPLEXITY_DELINEATION.md          tool: hazard-based vs interface/compliance re
                                    disclosure vs standardization
 TRUST_WEB_DENSITY.md               trust tracks cross-group bridges, not variety; citation audit
 FLOAT_SKILL.md                     unselected, untrained skill of unfamiliar routes; nine moves
-SUPERCONDUCTOR_PATCHWORK_GAPS.md   patchwork cuprate: G5 thermal, G7 bulk-average audit (G1-G4, G6 OWED)
+SUPERCONDUCTOR_PATCHWORK_GAPS.md   patchwork cuprate: G1-G7 with detection methods (G1-G4, G6 filled WO7, 36abbf8)
 RESONANCE_SPHERE_EVENT_LOG.md      personal experiment split as logged; measured procedure; safety line
 ```
 
-Content marked OWED in three files (FLOAT_SKILL observations, SUPERCONDUCTOR G1-G4/G6,
-RESONANCE_SPHERE observations) was not in the work order that created them and was not
-reconstructed.
+OWED now marks only three genuine open gaps: the primary superconductor paper is unread; no
+float-skill baseline data exist; no instrumented sphere run has been made. (Content WO4 left out
+was filled by WO7, 36abbf8.)
