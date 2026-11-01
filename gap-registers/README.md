@@ -20,6 +20,6 @@ SUPERCONDUCTOR_PATCHWORK_GAPS.md   patchwork cuprate: G5 thermal, G7 bulk-averag
 RESONANCE_SPHERE_EVENT_LOG.md      personal experiment split as logged; measured procedure; safety line
 ```
 
-Content marked OWED in two files (FLOAT_SKILL observations, SUPERCONDUCTOR G1-G4/G6,
+Content marked OWED in three files (FLOAT_SKILL observations, SUPERCONDUCTOR G1-G4/G6,
 RESONANCE_SPHERE observations) was not in the work order that created them and was not
 reconstructed.
