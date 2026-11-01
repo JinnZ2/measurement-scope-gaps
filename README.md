@@ -16,6 +16,10 @@ scope-gaps/GAPS.md        scope audit of three 2026-era brain-measure studies,
 cut-recoverability/       stdlib toy + real-embedding pilot: when can geometry
                           show that a cut happened? single readings vs reading
                           disagreement. SELF-GRADED, falsified branch kept in.
+gap-registers/            eight co-authored gap registers (culture-physics anchor,
+                          workforce chain, digital vs physical clock, complexity
+                          delineation, trust web density, float skill, cuprate
+                          patchwork, resonance sphere log); docs only, VERIFY per figure
 ```
 
 Start: desk studies G6, G8 need only public text. G2, G3 need public data
