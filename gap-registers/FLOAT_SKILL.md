@@ -13,8 +13,20 @@ Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 ## Observed
 
 - [stated] (Kavik) traits observed in people with this skill, and the sealed-door instance
-- OWED     the trait list and the sealed-door instance are held in the original notes; not
-  transcribed here
+- Traits (OBSERVED by Kavik): sustained concentration over long periods; self-provisioning;
+  handling any variable and competing constraints at once; self-assessment (judging own state);
+  time-management strategy; building own buffers; knowing workarounds; fast, frequent inference;
+  attention to small details; finding the right person inside an organization that isn't yours
+  (e.g. walking a store to find who holds the key); cross-domain recall (project management,
+  construction, mechanics, mediation).
+- Population note (OBSERVED by Kavik): route drivers vary by habit (breaks, lunch, social stops);
+  floaters vary by endurance under unpredictable conditions with no built-in slack. Separate
+  populations; don't pool.
+- Instance (OBSERVED by Kavik): trailer arrives sealed, so a stuck door is only found at the
+  receiver. Float driver acts as mechanic: opens it with leverage, then greases / maintains it
+  enough to finish the next two stops. Without the skill: call in, can't deliver, haul the trailer
+  back (round trip, reload, store left short). Automated: a mechanic must be dispatched. Field
+  fixes leave no record; returns do.
 
 ## Measures (PROPOSED)
 
@@ -52,5 +64,6 @@ T2  teach the nine moves to one group, not another; compare after N varied route
 ## Open gaps
 
 1. OWED  Trait list and sealed-door instance to transcribe from the original notes.
+   Note 2026-11-01: transcribed above (WO7).
 2. OWED  No baseline data for any of the four measures.
 3. OWED  "Route novelty" needs a definition before incidents can be normalised by it.

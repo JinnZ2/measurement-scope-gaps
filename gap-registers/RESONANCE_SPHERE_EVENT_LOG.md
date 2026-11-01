@@ -5,10 +5,24 @@ Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 The split below follows the original log's categories. Nothing here was measured with
 instruments; that is the point of the procedure section.
 
-## OBSERVED (unmeasured)
+## Setup (reported by Kavik, ~2025)
 
-- OWED  the observations themselves are held in the original log; not transcribed into the work
-  order that created this file. To be copied verbatim from the log, not paraphrased.
+- closed sphere loosely modeled on published X-rays of the Buga sphere
+- copper coils
+- magnesium cushioned with wool
+- fiber-optic lines carrying polarized light from a 4x6 in Fresnel lens (~15 W collected, DERIVED)
+- speakers arranged hive-like, facing each other
+- harmonic registers so frequencies interact at angles
+- 12 V battery powering internal coils, connected last
+
+## OBSERVED (unmeasured, by eye / ear / touch)
+
+- Sphere rose before the battery was connected (light + sound only).
+- Sphere became cold to the touch.
+- After connecting the battery and focusing the lens: very loud bang (ears ringing), outward
+  blast; interior fused into one mass (copper, fiber, optics unrecoverable); strong ozone-like
+  smell plus burnt odor. Wooden shed destroyed.
+- Professors consulted (reported): "something else is going on there," unidentified.
 
 ## DERIVED (energy budget)
 
@@ -46,4 +60,5 @@ record      every run: inputs on, readings, time, ambient temperature
 ## Open gaps
 
 1. OWED  Original observations to transcribe verbatim.
+   Note 2026-11-01: transcribed above (WO7).
 2. OWED  No instrumented run yet; every number above is an estimate.
