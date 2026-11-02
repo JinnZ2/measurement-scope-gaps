@@ -15,18 +15,24 @@ Every figure below is from secondary sources and is VERIFY against the primary s
 
 ```text
 data-center pipeline   ~12 GW announced; ~1/3 under construction; ~half delayed or
-                       canceled                                         (JLL / Bloomberg, Sightline)
-transformers           3-5 year lead times                              (industry reports)
+                       canceled                                         (Bloomberg; Sightline Climate)
+transformers           3-5 year lead times, up from ~2 years pre-2020   (industry reports)
 grid interconnection   4-10 year waits; ~2,600 GW queued end of 2023    (LBNL "Queued Up")
-cost                   ~$11.3M/MW vs ~$7.7M/MW in 2020                  (secondary; source to identify)
+cost                   ~$11.3M/MW in 2026 vs ~$7.7M/MW in 2020          (JLL)
 construction labor     92% of contractors report hiring difficulty;
-                       45% report project delays from it               (AGC survey)
-                       ~439k worker shortfall                           (ABC estimate)
-cost share             electrical systems 45-70% of facility cost       (secondary)
-backlog                11.4 vs 7.5 months                               (ABC backlog indicator)
-productivity / policy  ITIF                                             (source to identify)
-megaprojects           schedule and cost overrun base rates            (Flyvbjerg)
+                       45% report project delays from it               (AGC 2025 survey)
+                       ~439k data-center construction worker shortfall  (ITIF, Jan 2026)
+cost share             electrical work 45-70% of build cost             (ABC, July 2026)
+backlog                data-center contractors ~11.4 months vs 7.5 for
+                       others                                           (ABC, July 2026)
+megaprojects           ~9 in 10 large infrastructure projects run over
+                       schedule                                         (Flyvbjerg, Oxford megaprojects)
 ```
+
+Note 2026-11-02: attributions corrected against the source notes. Earlier version credited the
+439k shortfall to ABC (source: ITIF), the pipeline line to JLL (source: Bloomberg / Sightline
+Climate), and left the cost (JLL) and electrical share (ABC) unsourced. Figures unchanged; all
+still VERIFY against the primary reports.
 
 ## Open: electrical trades knowledge discrepancy ([stated] Kavik)
 
