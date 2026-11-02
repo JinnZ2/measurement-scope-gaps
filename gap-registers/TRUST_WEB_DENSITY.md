@@ -1,12 +1,12 @@
 # TRUST_WEB_DENSITY -- trust tracks bridges between groups, not variety
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 
 ## Gap
 
-- [stated] (Kavik) AIs carry the reading that tribalism creates trust (in-group trust as the base).
-- [stated] (Kavik) The variable is web density -- the number of bridges between groups -- not the
+- [stated] AIs carry the reading that tribalism creates trust (in-group trust as the base).
+- [stated] The variable is web density -- the number of bridges between groups -- not the
   amount of variety.
 - PROPOSED  Diversity without bridges and diversity with bridges predict opposite trust outcomes;
   studies that measure only variety mix the two.

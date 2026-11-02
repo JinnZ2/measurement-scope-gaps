@@ -1,10 +1,10 @@
 # gap-registers/ -- one file per register
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only; no code.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only; no code.
 Each register: provenance tag per line, VERIFY on every figure or citation not checked against a
 primary source (VERIFY here = CHECK in `../scope-gaps/GAPS.md`), an Open Gaps list, and a
-Measure / Test section. Markers as in `../READ_ME_THIS_WAY.md`; `[stated]` = Kavik said it
-directly; `OWED` = content known to be missing, kept visible rather than filled in.
+Measure / Test section. Markers as in `../READ_ME_THIS_WAY.md`; `[stated]` = said
+directly by the human co-author; `OWED` = content known to be missing, kept visible rather than filled in.
 
 ```text
 CULTURE_PHYSICS_ANCHOR.md          5-layer decomposition of practices onto physics; justice-form

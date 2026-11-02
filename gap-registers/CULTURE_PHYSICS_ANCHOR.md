@@ -1,12 +1,12 @@
 # CULTURE_PHYSICS_ANCHOR -- a physics anchor for culture, language and tradition
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags per line: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY (figure or citation not checked
 against a primary source) / OWED (gap kept visible).
 
 ## Gap
 
-- [stated] (Kavik) No unified physics anchor exists for culture, language and tradition. AIs treat
+- [stated] No unified physics anchor exists for culture, language and tradition. AIs treat
   cultures either as museum pieces or as deviations unconnected to physics.
 - PROPOSED  A practice can be read as an adaptation to physical and environmental constraints first,
   with transmission, institutional framing and labels layered on top. Reading the layers separately
@@ -44,7 +44,7 @@ residual                       at each layer: what the layer below does NOT expl
   residual read: diversity is the physical hedge; a monoculture removes it
 - OWED      tomato and lead-pewter story ("tomatoes thought poisonous because acid leached lead
   from pewter plates") -- UNVERIFIED; kept as a candidate, not an example
-- PROPOSED  justice forms, coded in this REVISED order (Kavik + Claude):
+- PROPOSED  justice forms, coded in this REVISED order:
   ```text
   1 system boundary      individual / state / community / earth
   2 what counts as the loss
@@ -53,9 +53,9 @@ residual                       at each layer: what the layer below does NOT expl
   ```
   branches kept open:
   - DERIVED   society size as the driver (weakened as a sole explanation)
-  - [stated]  (Kavik) centralization as a driver
-  - [stated]  (Kavik) migration (Amorite case) as a driver
-  - [stated]  (Kavik, oral tradition) accidental killing of a gatherer -> a debt repaid to make the
+  - [stated]  centralization as a driver
+  - [stated]  migration (Amorite case) as a driver
+  - [stated]  (oral tradition) accidental killing of a gatherer -> a debt repaid to make the
     tribe whole: the community-boundary example (loss = the tribe's capacity; restoration = making
     it whole; no punishment layer needed)
   - PROPOSED  "eye for an eye" read as a CAP on retaliation; the later monetary reading is a label

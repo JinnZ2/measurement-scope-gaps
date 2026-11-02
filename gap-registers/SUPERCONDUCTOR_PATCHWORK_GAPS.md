@@ -1,6 +1,6 @@
 # SUPERCONDUCTOR_PATCHWORK_GAPS -- what a patchwork cuprate implies for bulk-averaged conclusions
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 
 ## Source
@@ -23,7 +23,7 @@ G3 Tc vs Jc      tradeoff Tc vs critical current: boundaries may lower Tc but pi
 G4 BOUNDARY AS   boundary as device (PROPOSED; precedent: conductive ferroelectric domain walls,
    DEVICE        VERIFY)
                  detect: local probe (STM / conductive AFM) across boundaries
-G5 THERMAL       ([stated] Kavik's priority)
+G5 THERMAL       ([stated] priority)
                  question: does patch structure set thermal behaviour, and does controlling patch
                  density raise the usable operating temperature?
                  detect: thermal conductivity vs patch density; local thermography mapped onto the

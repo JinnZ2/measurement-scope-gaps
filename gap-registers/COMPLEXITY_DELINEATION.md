@@ -1,6 +1,6 @@
 # COMPLEXITY_DELINEATION -- a tool: which requirements address a hazard, and which do not
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 
 ## Per rule or requirement, ask (PROPOSED tool)
@@ -15,7 +15,7 @@ Q5  first-principles purpose           does it reduce to a hazard, or does it se
                                        liability position or status?
 ```
 
-## Responder view ([stated] Kavik, volunteer firefighter)
+## Responder view ([stated], volunteer firefighter)
 
 - [stated]  What responders need is foreknowledge of a site, not standardization of every site.
 

@@ -1,11 +1,11 @@
 # RESONANCE_SPHERE_EVENT_LOG -- personal experiment (~2025), split as logged
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 The split below follows the original log's categories. Nothing here was measured with
 instruments; that is the point of the procedure section.
 
-## Setup (reported by Kavik, ~2025)
+## Setup (field report, ~2025)
 
 - closed sphere loosely modeled on published X-rays of the Buga sphere
 - copper coils
@@ -60,7 +60,7 @@ record      every run: inputs on, readings, time, ambient temperature
 
 ## Related test
 
-- OBSERVED (Kavik)  with speakers arranged a certain way, foam balls and small ball bearings
+- OBSERVED (field report)  with speakers arranged a certain way, foam balls and small ball bearings
   levitate; bearings levitate off a flat aluminium disc but not off wood.
 - DERIVED  candidates: (a) near-field / squeeze-film acoustic levitation -- a stiff, flat,
   vibrating plate makes a thin pressurized air film; aluminium rings, wood damps.

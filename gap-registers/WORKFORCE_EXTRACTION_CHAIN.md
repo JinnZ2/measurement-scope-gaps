@@ -1,9 +1,9 @@
 # WORKFORCE_EXTRACTION_CHAIN -- the chain that consumes the next workforce
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 
-## Chain, with a lag per link ([stated] Kavik; PROPOSED as a causal chain)
+## Chain, with a lag per link ([stated]; PROPOSED as a causal chain)
 
 ```text
 link                                          lag (PROPOSED)
@@ -16,7 +16,7 @@ children's development                     -> next workforce               15-25
 - PROPOSED  The cost lands one generation after the saving, outside any ledger that books it.
 - PROPOSED  Second loop -- self-referential selection: hiring selects for passing hiring
   (credentials, interview performance) rather than for the work; parents who see the chain steer
-  children away from the occupation, shrinking the next pool ([stated] Kavik).
+  children away from the occupation, shrinking the next pool ([stated]).
 
 ## Missing ledger line
 

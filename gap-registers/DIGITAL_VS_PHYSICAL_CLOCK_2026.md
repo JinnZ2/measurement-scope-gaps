@@ -1,12 +1,12 @@
 # DIGITAL_VS_PHYSICAL_CLOCK_2026 -- design moves on a fast clock, the physical chain on an old one
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 Every figure below is from secondary sources and is VERIFY against the primary source named.
 
 ## Gap
 
-- [stated] (Kavik) Time offset: design and office work compressed to months; the physical chain
+- [stated] Time offset: design and office work compressed to months; the physical chain
   (equipment, grid, trades) still runs on the old clock.
 - DERIVED   In theory-of-constraints terms (Goldratt), throughput is set by the slowest link; a
   faster design clock only grows the queue in front of the physical constraint.
@@ -34,7 +34,7 @@ Note 2026-11-02: attributions corrected against the source notes. Earlier versio
 Climate), and left the cost (JLL) and electrical share (ABC) unsourced. Figures unchanged; all
 still VERIFY against the primary reports.
 
-## Open: electrical trades knowledge discrepancy ([stated] Kavik)
+## Open: electrical trades knowledge discrepancy ([stated])
 
 - PROPOSED  The knowledge an electrician must hold has grown faster than the training time that
   produces it.

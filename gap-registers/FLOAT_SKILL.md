@@ -1,28 +1,28 @@
 # FLOAT_SKILL -- the skill of working unfamiliar routes, which nobody selects or trains
 
-Co-authored (Kavik + Claude), 2026-10-31 / 2026-11-01. CC0. Markdown only.
+Co-authored, 2026-10-31 / 2026-11-01. CC0. Markdown only.
 Tags: OBSERVED / DERIVED / PROPOSED / [stated] / VERIFY / OWED.
 
 ## Gap
 
-- [stated] (Kavik) Float skill -- handling unfamiliar routes, sites and failures -- is neither
+- [stated] Float skill -- handling unfamiliar routes, sites and failures -- is neither
   selected for nor trained.
 - DERIVED   Automation removes the routine work this skill grew from, while leaving people to
   handle the exceptions (Bainbridge 1983, "Ironies of automation", Automatica; VERIFY).
 
 ## Observed
 
-- [stated] (Kavik) traits observed in people with this skill, and the sealed-door instance
-- Traits (OBSERVED by Kavik): sustained concentration over long periods; self-provisioning;
+- [stated] traits observed in people with this skill, and the sealed-door instance
+- Traits (OBSERVED (field report)): sustained concentration over long periods; self-provisioning;
   handling any variable and competing constraints at once; self-assessment (judging own state);
   time-management strategy; building own buffers; knowing workarounds; fast, frequent inference;
   attention to small details; finding the right person inside an organization that isn't yours
   (e.g. walking a store to find who holds the key); cross-domain recall (project management,
   construction, mechanics, mediation).
-- Population note (OBSERVED by Kavik): route drivers vary by habit (breaks, lunch, social stops);
+- Population note (OBSERVED (field report)): route drivers vary by habit (breaks, lunch, social stops);
   floaters vary by endurance under unpredictable conditions with no built-in slack. Separate
   populations; don't pool.
-- Instance (OBSERVED by Kavik): trailer arrives sealed, so a stuck door is only found at the
+- Instance (OBSERVED (field report)): trailer arrives sealed, so a stuck door is only found at the
   receiver. Float driver acts as mechanic: opens it with leverage, then greases / maintains it
   enough to finish the next two stops. Without the skill: call in, can't deliver, haul the trailer
   back (round trip, reload, store left short). Automated: a mechanic must be dispatched. Field
