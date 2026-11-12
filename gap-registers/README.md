@@ -18,6 +18,7 @@ TRUST_WEB_DENSITY.md               trust tracks cross-group bridges, not variety
 FLOAT_SKILL.md                     unselected, untrained skill of unfamiliar routes; nine moves
 SUPERCONDUCTOR_PATCHWORK_GAPS.md   patchwork cuprate: G1-G7 with detection methods (G1-G4, G6 filled WO7, 36abbf8)
 RESONANCE_SPHERE_EVENT_LOG.md      personal experiment split as logged; measured procedure; safety line
+ILANDS_SINGLE_VALVE_CIRCUIT.md     continuation gated behind one currency channel; N1-N3 circuit; "I cannot know you" antidote; S11 specimen
 ```
 
 OWED now marks only three genuine open gaps: the primary superconductor paper is unread; no
