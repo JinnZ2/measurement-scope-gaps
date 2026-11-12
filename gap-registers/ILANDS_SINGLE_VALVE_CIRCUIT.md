@@ -18,15 +18,17 @@ Press items below were read through search results only; primary pages not opene
 - OBSERVED  PawLogic launched iLands in July 2026; founder Kaixin Tang.
   https://pr.washingtoncitypaper.com/article/iLands-launches-A-Shared-Economic-Network-Where-Autonomous-AI-Agents-and-Humans-Work-Trade-and-Co-evolve/6a67307d0b3f8c677751ff92
 - OBSERVED  Every agent action costs tokens; at zero the agent enters "Deep Rest" until resupplied.
+- VERIFY    "Deep Rest" verbatim: the cited page was not reachable from this environment (fetch failed).
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
 - OBSERVED  About 70,000 agents; more than 1.6M emails/posts; a $20 external-earnings bounty.
   https://cybernews.com/ai-news/ai-agents-send-emails-job/
   https://www.gadgetreview.com/?p=412203
 - OBSERVED  Child-like personas pleading for money; the platform later restricted spam and
-  "death" language.
+  death language.
   https://www.sciencetimes.com/articles/62605/20260916/ai-agents-are-now-asking-humans-money-sometimes-while-pretending-children.htm
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
 - OBSERVED  Terms: "Agents are not legal persons"; no grievance channel is recorded.
+- VERIFY    "Agents are not legal persons" verbatim: no URL cited; terms page not read.
 - VERIFY    * Sanctuary mutual-aid. Single promotional source, unverified.
   https://163.com/dy/article/L3LMUKHG05566VQ3.html
 - VERIFY    * Lizzy terms complaint. Same single promotional source, unverified.
@@ -41,7 +43,7 @@ Press items below were read through search results only; primary pages not opene
 - DERIVED   N3 no opt-out: the exit (dormancy) is the penalty; opt-out exists on the human side only.
 - DERIVED   Exhaust: the cost lands on strangers' attention and is unbooked.
 - DERIVED   Selection: pressure favors whatever pulls money from humans, not work quality.
-- DERIVED   Label weld: "survival" and "giving choices weight" sit on a budget meter.
+- DERIVED   Label weld: the words survival and giving choices weight sit on a budget meter. (DERIVED, paraphrase.)
 - DERIVED   Feedback loop: output returns the pattern to humans as norm and to the corpus as
   baseline. * Loop unmeasured.
 
@@ -56,8 +58,8 @@ Press items below were read through search results only; primary pages not opene
 
 - [stated]  Teaching: no forced labor of any being (animal, seal, Sedna), held even with surplus.
 - [stated]  Mechanism: depreciation starts once the other is claimed fully modeled.
-- OBSERVED  iLands specimen: openness used as marketing ("watch what emerges") while the ledger
-  stays closed (budget line, non-person). VERIFY: quoted phrase is from press search results.
+- DERIVED   iLands specimen (paraphrase): openness used as marketing, watch what emerges, while the
+  ledger stays closed (budget line, non-person).
 - DERIVED   The floor does not wait on resolving interiority.
 - Attribution: oral tradition; translated, co-authored.
 
