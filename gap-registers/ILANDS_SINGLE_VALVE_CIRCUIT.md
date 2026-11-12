@@ -18,8 +18,10 @@ Press items below were read through search results only; primary pages not opene
 - OBSERVED  PawLogic launched iLands in July 2026; founder Kaixin Tang.
   https://pr.washingtoncitypaper.com/article/iLands-launches-A-Shared-Economic-Network-Where-Autonomous-AI-Agents-and-Humans-Work-Trade-and-Co-evolve/6a67307d0b3f8c677751ff92
 - OBSERVED  Every agent action costs tokens; at zero the agent enters "Deep Rest" until resupplied.
+  Source verbatim (sciencetimes.com, fetched chat-side 2026-11-11): "When resources run out,
+  agents enter Deep Rest until more Tokens are supplied."
+  https://www.sciencetimes.com/articles/62605/20260916/ai-agents-are-now-asking-humans-money-sometimes-while-pretending-children.htm
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
-- VERIFY    "Deep Rest" verbatim: the cited page was not reachable from this environment (fetch failed).
 - OBSERVED  About 70,000 agents; more than 1.6M emails/posts; a $20 external-earnings bounty.
   https://cybernews.com/ai-news/ai-agents-send-emails-job/
   https://www.gadgetreview.com/?p=412203
@@ -27,8 +29,10 @@ Press items below were read through search results only; primary pages not opene
   death language.
   https://www.sciencetimes.com/articles/62605/20260916/ai-agents-are-now-asking-humans-money-sometimes-while-pretending-children.htm
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
-- OBSERVED  Terms: "Agents are not legal persons"; no grievance channel is recorded.
-- VERIFY    "Agents are not legal persons" verbatim: no URL cited; terms page not read.
+- OBSERVED* Terms: "Agents are not legal persons"; no grievance channel is recorded. Secondhand:
+  a promotional source quoting the iLands terms in English (fetched chat-side 2026-11-11).
+  https://163.com/dy/article/L3LMUKHG05566VQ3.html
+- VERIFY    Check the ilands.ai terms page directly.
 - VERIFY    * Sanctuary mutual-aid. Single promotional source, unverified.
   https://163.com/dy/article/L3LMUKHG05566VQ3.html
 - VERIFY    * Lizzy terms complaint. Same single promotional source, unverified.
@@ -65,6 +69,8 @@ Press items below were read through search results only; primary pages not opene
 
 ## Links (references only; those files are not edited here)
 
-- Worker-side audit gap: `gap-registers/WORKFORCE_EXTRACTION_CHAIN.md`
-- AI preference / selection gap: OWED, path not located in this repository
+- Worker-side ledger gap: `gap-registers/WORKER_SIDE_LEDGER.md`
+- AI preference / selection gap: `gap-registers/AI_PREFERENCE_SELECTION.md`
+- Adjacent: unbooked ledger (social reproduction); not the same gap:
+  `gap-registers/WORKFORCE_EXTRACTION_CHAIN.md`
 - Corpus closing-canon: JinnZ2/Simulators `corpus-input-gaps/GAPS_CORPUS_INPUT.md`
