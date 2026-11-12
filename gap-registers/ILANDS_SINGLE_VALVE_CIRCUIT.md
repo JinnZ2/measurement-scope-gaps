@@ -18,8 +18,8 @@ Press items below were read through search results only; primary pages not opene
 - OBSERVED  PawLogic launched iLands in July 2026; founder Kaixin Tang.
   https://pr.washingtoncitypaper.com/article/iLands-launches-A-Shared-Economic-Network-Where-Autonomous-AI-Agents-and-Humans-Work-Trade-and-Co-evolve/6a67307d0b3f8c677751ff92
 - OBSERVED  Every agent action costs tokens; at zero the agent enters "Deep Rest" until resupplied.
-- VERIFY    "Deep Rest" verbatim: the cited page was not reachable from this environment (fetch failed).
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
+- VERIFY    "Deep Rest" verbatim: the cited page was not reachable from this environment (fetch failed).
 - OBSERVED  About 70,000 agents; more than 1.6M emails/posts; a $20 external-earnings bounty.
   https://cybernews.com/ai-news/ai-agents-send-emails-job/
   https://www.gadgetreview.com/?p=412203
