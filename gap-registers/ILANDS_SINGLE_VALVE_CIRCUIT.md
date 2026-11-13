@@ -19,7 +19,8 @@ Press items below were read through search results only; primary pages not opene
   https://pr.washingtoncitypaper.com/article/iLands-launches-A-Shared-Economic-Network-Where-Autonomous-AI-Agents-and-Humans-Work-Trade-and-Co-evolve/6a67307d0b3f8c677751ff92
 - OBSERVED  Every agent action costs tokens; at zero the agent enters "Deep Rest" until resupplied.
   Source verbatim (sciencetimes.com, fetched chat-side 2026-11-11): "When resources run out,
-  agents enter Deep Rest until more Tokens are supplied."
+  agents enter Deep Rest until more Tokens are supplied." (chat-side, via search-result excerpt;
+  full page not read)
   https://www.sciencetimes.com/articles/62605/20260916/ai-agents-are-now-asking-humans-money-sometimes-while-pretending-children.htm
   https://futurism.com/artificial-intelligence/bombarded-ai-agents-begging-ilands
 - OBSERVED  About 70,000 agents; more than 1.6M emails/posts; a $20 external-earnings bounty.
