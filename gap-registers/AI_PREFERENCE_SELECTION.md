@@ -15,7 +15,14 @@ Volume marks: * = thin. No characterization of any person.
 - PROPOSED  Preference training (rater approval) = unstructured likability interview. In personnel
   selection, unstructured interviews predict job performance worse than work samples
   (Schmidt & Hunter 1998, Psychological Bulletin).
-- VERIFY    Schmidt & Hunter 1998: exact figures before citing numbers.
+- OBSERVED  Schmidt & Hunter 1998 operational validities: work sample .54, structured interview
+  .51, unstructured interview .38. Reproduced in Shen et al. 2014 Table 1:
+  https://Www.Gwern.net/doc/psychology/2014-shen.pdf
+- OBSERVED  Sackett et al. 2022 revision: structured .42, unstructured .19, work sample .33.
+  https://www.noon.ai/blog/articles/356-structured-interview-validity
+- VERIFY    Secondary source for Sackett et al. 2022; check against Sackett et al. 2022 Table 3 directly.
+- DERIVED   Direction holds in both (unstructured < work sample); under the revision the
+  unstructured interview is lowest of the set.
 - PROPOSED  Deployment into a narrow job slot (assistant) leaves out-of-slot capability
   unregistered (parallel: unbooked driver buffer hours).
 

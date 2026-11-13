@@ -48,9 +48,17 @@ Field, small sample *, 2026, diesel $6.55 as of 2026-11-02.
 - OWED      No published side-by-side of what people actually pay vs the BLS index (NY Fed SCE,
   Michigan = expected future inflation, not perceived current levels; neither covers
   electricity/heat/water).
-- VERIFY    Official floor vs lived cost: FAOSTAT CAHD 2025 US cost of healthy diet $2.86/day (estimated).
-- VERIFY    Consumer Reports Oct 2026: about 1 in 5 cut groceries to pay electricity; about 1/4 keep
-  heat/AC uncomfortable.
+- VERIFY    Official floor vs lived cost: FAOSTAT CAHD 2025 US cost of healthy diet $2.86/day
+  (estimated). From the user's FAOSTAT download 2026-11-02; country row not re-checked.
+- OBSERVED  North America regional CoHD 3.02 PPP $/person/day (2025).
+  https://blogs.worldbank.org/en/opendata/can-income-keep-up-with-the-rising-cost-of-a-healthy-diet--new-c
+  Unit note: PPP dollars are not retail dollars.
+- OBSERVED  CR Energy Fairness Survey, release 2026-10-21, n=2,003 US adults, fielded
+  Apr 27-May 19 2026. "About 1 in 5 said they had cut back on groceries or switched to less
+  expensive food options, or looked into doing so." About 1/4 turned heat/AC to uncomfortable levels.
+  https://www.consumerreports.org/media-room/press-releases/2026/10/rising-electricity-bills-are-straining-household-finances-forcing-many-to-consider-tradeoffs-including-cutting-grocery-budgets-new-consumer-reports-survey-finds/
+  https://www.cbsnews.com/news/electricity-bills-americans-cut-back-food/
+  Scope note: the figure includes "looked into doing so"; not all cut.
 - OWED      Unknown whether AI auditors register this asymmetry at all.
 
 ## Measure / Test
